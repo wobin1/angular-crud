@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "Wobin",
+      "lastName": "Musa",
+      "email": "crixadsinfo@gmail.com",
+      "mobile": "+2348118701837",
+      "salary": {
+        "firstName": "Wobin",
+        "lastName": "Musa",
+        "email": "crixadsinfo@gmail.com",
+        "mobile": "+2348118701837",
+        "salary": "70,000"
+      }
+    },
+    {
+      "id": 4,
+      "firstName": "Peter",
+      "lastName": "La'ah",
+      "email": "crixadsinfo@gmail.com",
+      "mobile": "+2348118701837",
+      "salary": {
+        "firstName": "Peter",
+        "lastName": "La'ah",
+        "email": "crixadsinfo@gmail.com",
+        "mobile": "+2348118701837",
+        "salary": "56,000"
+      }
+    },
+    {
+      "id": 5,
+      "firstName": "Peace",
+      "lastName": "Dauda",
+      "email": "nathanielmusa3@gmail.com",
+      "mobile": "+2348144169123",
+      "salary": "80,000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
